@@ -1,0 +1,29 @@
+{
+    "000":
+    {
+        "title": "Jean Béraud's La Belle Époque",
+        "language":
+        {
+            "RU": "Картины Жана Беро «Прекрасная эпоха»",
+            "JP": "ジャン ベロー ラ ベル エポック"
+        }
+    },
+    "001":
+    {
+        "title": "The Coronation of Queen Victoria",
+        "language":
+        {
+            "RU": "Коронация Королевы Виктории",
+            "JP": "ヴィクトリア女王の戴冠式"
+        }
+    },
+    "002":
+    {
+        "title": "Alexandre Pouchkine's Eugène Onéguine",
+        "language":
+        {
+            "RU": "Поэма А.С. Пушкина «Евгений Онегин»",
+            "JP": "エフゲニー・オネーギン"
+        }
+    }
+}
