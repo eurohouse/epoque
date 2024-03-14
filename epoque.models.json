@@ -100,7 +100,8 @@
     {
         "setting": "La Belle Époque",
         "country": "WR",
-        "insignia": "ironcross"
+        "insignia": "ironcross",
+        "birthday": "January 27, 1859"
     },
     "Grandmother of Europe":
     {
@@ -136,7 +137,8 @@
         "weight": 58,
         "sizes": "85-59-89",
         "shoe_size": 8,
-        "country": "HU"
+        "country": "HU",
+        "birthday": "October 8, 1993"
     },
     "Italian Feet":
     {
@@ -145,8 +147,9 @@
         "insignia": "eurohouse",
         "height": 0,
         "weight": 0,
-        "sizes": "X-X-X",
-        "shoe_size": 0
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "European Girl":
     {
@@ -155,7 +158,8 @@
         "height": 0,
         "weight": 0,
         "sizes": "X-X-X",
-        "shoe_size": 0
+        "shoe_size": 0,
+        "birthday": ""
     },
     "Eugène Onéguine, Canto The First: I":
     {
