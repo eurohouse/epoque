@@ -101,7 +101,14 @@
         "setting": "La Belle Époque",
         "country": "WR",
         "insignia": "ironcross",
-        "birthday": "January 27, 1859"
+        "birthday": "January 27, 1859",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Кайзер Вильгельм II"
+            }
+        }
     },
     "Grandmother of Europe":
     {
@@ -114,7 +121,14 @@
     {
         "setting": "La Belle Époque",
         "country": "GB",
-        "insignia": "crown"
+        "insignia": "crown",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Семья Королевы Виктории"
+            }
+        }
     },
     "Queen Victoria Visits Waddesdon Manor":
     {
@@ -138,7 +152,14 @@
         "sizes": "85-59-89",
         "shoe_size": 8,
         "country": "HU",
-        "birthday": "October 8, 1993"
+        "birthday": "October 8, 1993",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Барбара Палвин"
+            }
+        }
     },
     "Italian Feet":
     {
@@ -149,7 +170,14 @@
         "weight": 0,
         "sizes": "0-0-0",
         "shoe_size": 0,
-        "birthday": ""
+        "birthday": "",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Ноги итальянки"
+            }
+        }
     },
     "European Girl":
     {
@@ -159,7 +187,14 @@
         "weight": 0,
         "sizes": "X-X-X",
         "shoe_size": 0,
-        "birthday": ""
+        "birthday": "",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Девушка из Европы"
+            }
+        }
     },
     "Eugène Onéguine, Canto The First: I":
     {
