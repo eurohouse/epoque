@@ -20,6 +20,20 @@
             "RU": { "title": "Ноги итальянки" }
         }
     },
+    "Le Petit Trianon":
+    {
+        "insignia": "palace",
+        "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language":
+        {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
+        }
+    },
     "European Girl":
     {
         "insignia": "eurohouse",
