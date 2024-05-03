@@ -13,8 +13,8 @@
     "Italian Feet":
     {
         "foot_type": "Roman",
-        "insignia": "eurohouse",
-        "nsfw": "true", "country": "IT",
+        "nsfw": "true",
+        "country": "IT",
         "language":
         {
             "RU": { "title": "Ноги итальянки" }
@@ -36,11 +36,50 @@
     },
     "European Girl":
     {
-        "insignia": "eurohouse",
         "nsfw": "true", "country": "GB",
         "language":
         {
             "RU": { "title": "Девушка из Европы" }
+        }
+    },
+    "Victoria visits Waddesdon":
+    {
+        "insignia": "palace",
+        "country": "GB",
+        "maison": "https://waddesdon.org.uk",
+        "memoir": "Queen Victoria paid a much-anticipated visit to Waddesdon on 14 May 1890. The Queen travelled to Aylesbury by train and journeyed to Waddesdon in a carriage procession. The royal party were given lunch, offered a tour of the Manor and collection, and in the afternoon were shown the grounds, before moving onto the time-honoured custom of planting a tree.",
+        "language":
+        {
+            "RU": {
+                "title": "Поместье Ротшильдов Уоддесдон",
+                "memoir": "Королева Виктория нанесла долгожданный визит в Уоддесдон 14 мая 1890 года. Королева поехала в Эйлсбери на поезде и поехала в Уоддесдон в процессии экипажа. Королевскую свиту накормили обедом, предложили экскурсию по поместью и коллекции, а во второй половине дня показали территорию, прежде чем перейти к проверенному временем обычаю сажать дерево."
+            }
+        }
+    },
+    "Coronation of Queen Victoria":
+    {
+        "insignia": "crown",
+        "country": "GB",
+        "memoir": "The coronation of Victoria as Queen of the United Kingdom took place on Thursday, 28 June 1838, just over a year after she succeeded to the throne of the United Kingdom at the age of 18. The ceremony was held in Westminster Abbey after a public procession through the streets from Buckingham Palace, to which the Queen returned later as part of a second procession.",
+        "language":
+        {
+            "RU": {
+                "title": "Прабабушка Европы",
+                "memoir": "Ранним утром 28 июня 1838 года пушечная пальба в Сент-Джеймсском парке и в Тауэре возвестила о наступлении рассвета. В 5 часов утра экипажи направлялись в Вестминстерское аббатство, где должна была состояться церемония, а к 7 часам утра улицы Лондона в западной части столицы были заполнены транспортными средствами и пешеходами, спешившими на коронацию."
+            }
+        }
+    },
+    "Grandmother of Europe":
+    {
+        "insignia": "crown",
+        "country": "GB",
+        "memoir": "Edward's firstborn son passed away from influenza and so his second, George V, inherited the throne in 1910. After war descended on Europe in 1914, three royal cousins found themselves in direct conflict with each other. King George V of Britain, Kaiser Wilhelm II of Germany, and Tsar Nicholas II of Russia.",
+        "language":
+        {
+            "RU": {
+                "title": "Прабабушка Европы",
+                "memoir": "Первенец Эдварда скончался от гриппа, и поэтому его второй сын, Георг V, унаследовал трон в 1910 году. После того, как в 1914 году в Европе обрушилась война, три королевских кузена оказались в прямом конфликте друг с другом. Король Великобритании Георг V, кайзер Германии Вильгельм II и царь России Николай II."
+            }
         }
     },
     "Eugène Onéguine, Canto The First: I":
