@@ -64,8 +64,34 @@
         "language":
         {
             "RU": {
-                "title": "Прабабушка Европы",
+                "title": "Коронация Королевы Виктории",
                 "memoir": "Ранним утром 28 июня 1838 года пушечная пальба в Сент-Джеймсском парке и в Тауэре возвестила о наступлении рассвета. В 5 часов утра экипажи направлялись в Вестминстерское аббатство, где должна была состояться церемония, а к 7 часам утра улицы Лондона в западной части столицы были заполнены транспортными средствами и пешеходами, спешившими на коронацию."
+            }
+        }
+    },
+    "Marriage A-la-Mode":
+    {
+        "insignia": "casual",
+        "country": "GB",
+        "memoir": "For centuries, the English have been fascinated by the sexual exploits and squalid greed of the aristocracy, and these are the subjects of the six-part series Marriage A-la-Mode, which illustrates the disastrous consequences of marrying for money rather than love.",
+        "language":
+        {
+            "RU": {
+                "title": "Модный брак",
+                "memoir": "На протяжении веков англичан очаровывали сексуальные подвиги и отвратительная жадность аристократии, и именно об этом рассказывается в шестисерийном сериале «Брак в моде», который иллюстрирует катастрофические последствия брака из-за денег, а не по любви."
+            }
+        }
+    },
+    "Kaiser Wilhelm II":
+    {
+        "insignia": "ironcross",
+        "country": "DE",
+        "memoir": "Wilhelm II was a strong supporter of the military policy pursued in 1914-1918. After the assassination attempt on Archduke Franz Ferdinand in June 1914, he guaranteed Austria-Hungary all possible assistance from Germany in the fight against \"Serbian barbarism.\"",
+        "language":
+        {
+            "RU": {
+                "title": "Кайзер Вильгельм II",
+                "memoir": "Вильгельм II был решительным сторонником военной политики, проводимой в 1914-1918 годах. После покушения на эрцгерцога Франца Фердинанда в июне 1914 года он гарантировал Австро-Венгрии всяческую помощь со стороны Германии в борьбе с «сербским варварством»."
             }
         }
     },
@@ -79,6 +105,19 @@
             "RU": {
                 "title": "Прабабушка Европы",
                 "memoir": "Первенец Эдварда скончался от гриппа, и поэтому его второй сын, Георг V, унаследовал трон в 1910 году. После того, как в 1914 году в Европе обрушилась война, три королевских кузена оказались в прямом конфликте друг с другом. Король Великобритании Георг V, кайзер Германии Вильгельм II и царь России Николай II."
+            }
+        }
+    },
+    "Queen Victoria":
+    {
+        "insignia": "crown",
+        "country": "GB",
+        "memoir": "The couple first met at Victoria's 17th birthday in April 1836 when she was heir to the British throne. The cousins were introduced by their uncle, Leopold I (1790-1865), King of the Belgians. In their memoirs, both Albert and Victoria record that they almost instantly fell in love.",
+        "language":
+        {
+            "RU": {
+                "title": "Королева Виктория",
+                "memoir": "Пара впервые встретилась на 17-летии Виктории в апреле 1836 года, когда она была наследницей британского престола. Двоюродных братьев познакомил их дядя Леопольд I (1790-1865), король Бельгии. В своих мемуарах и Альберт, и Виктория отмечают, что почти мгновенно влюбились друг в друга."
             }
         }
     },
