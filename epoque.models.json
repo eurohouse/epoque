@@ -108,6 +108,19 @@
             }
         }
     },
+    "King of Couture":
+    {
+        "insignia": "mistress",
+        "country": "FR",
+        "memoir": "September 1 marks the 300th anniversary of the death of King Louis XIV, France’s longest-reigning monarch. Logging 72 years on the throne, Louis eclipsed Queen Victoria by a decade. But this tercentenary also commemorates a beginning: the birth of haute couture as people know it today, seasonal, corporate, media-driven, and-above all - French.",
+        "language":
+        {
+            "RU": {
+                "title": "Король Высокой моды",
+                "memoir": "1 сентября исполняется 300 лет со дня смерти короля Людовика XIV, самого долгоправящего монарха Франции. Пробыв на троне 72 года, Людовик на десять лет затмил королеву Викторию. Но это трехсотлетие также знаменует начало: рождение высокой моды, какой люди ее знают сегодня, сезонной, корпоративной, управляемой средствами массовой информации и, прежде всего, французской."
+            }
+        }
+    },
     "Queen Victoria":
     {
         "insignia": "crown",
