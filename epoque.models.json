@@ -5,7 +5,7 @@
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
         "birthday": "October 8, 1993",
-        "language":
+        "index": "0,1", "language":
         {
             "RU": { "title": "Барбара Палвин" }
         }
@@ -13,9 +13,8 @@
     "Italian Feet":
     {
         "foot_type": "Roman",
-        "nsfw": "true",
-        "country": "IT",
-        "language":
+        "nsfw": "true", "country": "IT",
+        "index": "3,4", "language":
         {
             "RU": { "title": "Ноги итальянки" }
         }
