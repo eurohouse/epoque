@@ -21,8 +21,7 @@
     },
     "Jean Béraud's Paintings":
     {
-        "insignia": "ThePushkin",
-        "country": "FR",
+        "insignia": "Eurohouse", "country": "FR",
         "maison": "https://www.sothebys.com/en/artists/jean-beraud",
         "memoir": "Although the Belle Époque fell out of popularity at the time of Béraud’s death, he has become one of the most beloved artists from the period. Béraud’s paintings are held at the Louvre, Paris; The Metropolitan Museum, New York; the National Gallery, London; the Art Institute of Chicago, and many other major institutions. His works continue to sell for exponentially higher prices; Après L’Office À L’Église de la Sainte Trinité, Noël 1890 sold for $672,000 and Avenue Parisienne for $1.5 million at Sotheby’s.",
         "language":
@@ -35,8 +34,7 @@
     },
     "Le Petit Trianon":
     {
-        "insignia": "ThePalace",
-        "country": "FR",
+        "insignia": "Palace", "country": "FR",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
         "language":
@@ -50,15 +48,14 @@
     "European Girl":
     {
         "nsfw": "true", "country": "GB",
-        "language":
+        "insignia": "Lady", "language":
         {
             "RU": { "title": "Девушка из Европы" }
         }
     },
     "Victoria visits Waddesdon":
     {
-        "insignia": "MaisonRothschild",
-        "country": "GB",
+        "insignia": "Rothschild", "country": "GB",
         "maison": "https://waddesdon.org.uk",
         "memoir": "Queen Victoria paid a much-anticipated visit to Waddesdon on 14 May 1890. The Queen travelled to Aylesbury by train and journeyed to Waddesdon in a carriage procession. The royal party were given lunch, offered a tour of the Manor and collection, and in the afternoon were shown the grounds, before moving onto the time-honoured custom of planting a tree.",
         "language":
@@ -71,8 +68,7 @@
     },
     "Coronation of Queen Victoria":
     {
-        "insignia": "Clock",
-        "country": "GB",
+        "insignia": "Clock", "country": "GB",
         "memoir": "The coronation of Victoria as Queen of the United Kingdom took place on Thursday, 28 June 1838, just over a year after she succeeded to the throne of the United Kingdom at the age of 18. The ceremony was held in Westminster Abbey after a public procession through the streets from Buckingham Palace, to which the Queen returned later as part of a second procession.",
         "language":
         {
@@ -84,8 +80,7 @@
     },
     "Marriage A-la-Mode":
     {
-        "insignia": "TheLady",
-        "country": "GB",
+        "insignia": "Lady", "country": "GB",
         "memoir": "For centuries, the English have been fascinated by the sexual exploits and squalid greed of the aristocracy, and these are the subjects of the six-part series Marriage A-la-Mode, which illustrates the disastrous consequences of marrying for money rather than love.",
         "language":
         {
@@ -97,8 +92,7 @@
     },
     "Kaiser Wilhelm II":
     {
-        "insignia": "TheIronCross",
-        "country": "DE",
+        "insignia": "IronCross", "country": "DE",
         "memoir": "Wilhelm II was a strong supporter of the military policy pursued in 1914-1918. After the assassination attempt on Archduke Franz Ferdinand in June 1914, he guaranteed Austria-Hungary all possible assistance from Germany in the fight against \"Serbian barbarism.\"",
         "language":
         {
@@ -110,8 +104,7 @@
     },
     "Grandmother of Europe":
     {
-        "insignia": "MaisonWindsor",
-        "country": "GB",
+        "insignia": "Windsor", "country": "GB",
         "memoir": "Edward's firstborn son passed away from influenza and so his second, George V, inherited the throne in 1910. After war descended on Europe in 1914, three royal cousins found themselves in direct conflict with each other. King George V of Britain, Kaiser Wilhelm II of Germany, and Tsar Nicholas II of Russia.",
         "language":
         {
@@ -123,8 +116,7 @@
     },
     "King of Couture":
     {
-        "insignia": "TheGent",
-        "country": "FR",
+        "insignia": "SunKing", "country": "FR",
         "memoir": "September 1 marks the 300th anniversary of the death of King Louis XIV, France’s longest-reigning monarch. Logging 72 years on the throne, Louis eclipsed Queen Victoria by a decade. But this tercentenary also commemorates a beginning: the birth of haute couture as people know it today, seasonal, corporate, media-driven, and-above all - French.",
         "language":
         {
@@ -136,8 +128,7 @@
     },
     "Queen Victoria":
     {
-        "insignia": "Windsor",
-        "country": "GB",
+        "insignia": "Windsor", "country": "GB",
         "memoir": "The couple first met at Victoria's 17th birthday in April 1836 when she was heir to the British throne. The cousins were introduced by their uncle, Leopold I (1790-1865), King of the Belgians. In their memoirs, both Albert and Victoria record that they almost instantly fell in love.",
         "language":
         {
@@ -149,8 +140,7 @@
     },
     "Eugène Onéguine, Canto The First: I":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "\"My uncle's goodness is extreme, If seriously he hath disease; He hath acquired the world's esteem And nothing more important sees; A paragon of virtue he! But what a nuisance it will be, Chained to his bedside night and day Without a chance to slip away. Ye need dissimulation base A dying man with art to soothe, Beneath his head the pillow smooth, And physic bring with mournful face, To sigh and meditate alone: When will the devil take his own!\"",
         "language":
         {
@@ -163,8 +153,7 @@
     },
     "Eugène Onéguine, Canto The First: II":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Thus mused a madcap young, who drove Through clouds of dust at postal pace, By the decree of Mighty Jove, Inheritor of all his race. Friends of Liudmila and Ruslan, Let me present ye to the man, Who without more prevarication The hero is of my narration! Onéguine, O my gentle readers, Was born beside the Neva, where It may be ye were born, or there Have shone as one of fashion's leaders. I also wandered there of old, But cannot stand the northern cold.",
         "language":
         {
@@ -177,8 +166,7 @@
     },
     "Eugène Onéguine, Canto The First: III":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Having performed his service truly, Deep into debt his father ran; Three balls a year he gave ye duly, At last became a ruined man. But Eugene was by fate preserved, For first \"madame\" his wants observed, And then “monsieur” supplied her place; The boy was wild but full of grace. \"Monsieur l'Abbé\" a starving Gaul, Fearing his pupil to annoy, Instructed jestingly the boy, Morality taught scarce at all; Gently for pranks he would reprove And in the Summer Garden rove.",
         "language":
         {
@@ -191,8 +179,7 @@
     },
     "Eugène Onéguine, Canto The First: IV":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "When youth's rebellious hour drew near And my Eugene the path must trace - The path of hope and tender fear - Monsieur clean out of doors they chase. Lo! my Onéguine free as air, Cropped in the latest style his hair, Dressed like a London dandy he The giddy world at last shall see. He wrote and spoke, so all allowed, In the French language perfectly, Danced the mazurka gracefully, Without the least constraint he bowed. What more's required? The world replies, He is a charming youth and wise.",
         "language":
         {
@@ -205,8 +192,7 @@
     },
     "Eugène Onéguine, Canto The First: V":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "We all of us of education A something somehow have obtained, Thus, praised be God! a reputation With us is easily attained. Onéguine was - so many deemed Unerring critics self-esteemed, Pedantic although scholar like, In truth he had the happy trick Without constraint in conversation Of touching lightly every theme. Silent, oracular ye'd see him Amid a serious disputation, Then suddenly discharge a joke The ladies' laughter to provoke.",
         "language":
         {
@@ -219,8 +205,7 @@
     },
     "Eugène Onéguine, Canto The First: VI":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Latin is just now not in vogue, But if the truth I must relate, Onéguine knew enough, the rogue A mild quotation to translate, A little Juvenal to spout, With \"vale\" finish off a note; Two verses he could recollect Of the Æneid, but incorrect. In history he took no pleasure, The dusty chronicles of earth For him were but of little worth, Yet still of anecdotes a treasure Within his memory there lay, From Romulus unto our day.",
         "language":
         {
@@ -233,8 +218,7 @@
     },
     "Eugène Onéguine, Canto The First: VII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "For empty sound the rascal swore he Existence would not make a curse, Knew not an iamb from a choree, Although we read him heaps of verse. Homer, Theocritus, he jeered, But Adam Smith to read appeared, And at economy was great; That is, he could elucidate How empires store of wealth unfold, How flourish, why and wherefore less If the raw product they possess The medium is required of gold. The father scarcely understands His son and mortgages his lands.",
         "language":
         {
@@ -247,8 +231,7 @@
     },
     "Eugène Onéguine, Canto The First: VIII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "But upon all that Eugene knew I have no leisure here to dwell, But say he was a genius who In one thing really did excel. It occupied him from a boy, A labour, torment, yet a joy, It whiled his idle hours away And wholly occupied his day - The amatory science warm, Which Ovid once immortalized, For which the poet agonized Laid down his life of sun and storm On the steppes of Moldavia lone, Far from his Italy - his own.",
         "language":
         {
@@ -261,8 +244,7 @@
     },
     "Eugène Onéguine, Canto The First: IX":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "How soon he learnt deception's art, Hope to conceal and jealousy, False confidence or doubt to impart, Sombre or glad in turn to be, Haughty appear, subservient, Obsequious or indifferent! What languor would his silence show, How full of fire his speech would glow! How artless was the note which spoke Of love again, and yet again; How deftly could he transport feign! How bright and tender was his look, Modest yet daring! And a tear Would at the proper time appear.",
         "language":
         {
@@ -275,8 +257,7 @@
     },
     "Eugène Onéguine, Canto The First: X":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "How well he played the greenhorn's part To cheat the inexperienced fair, Sometimes by pleasing flattery's art, Sometimes by ready-made despair; The feeble moment would espy Of tender years the modesty Conquer by passion and address, Await the long-delayed caress. Avowal then 'twas time to pray, Attentive to the heart's first beating, Follow up love - a secret meeting Arrange without the least delay - Then, then - well, in some solitude Lessons to give he understood!",
         "language":
         {
@@ -289,8 +270,7 @@
     },
     "Eugène Onéguine, Canto The First: XI":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "How soon he learnt to titillate The heart of the inveterate flirt! Desirous to annihilate His own antagonists expert, How bitterly he would malign, With many a snare their pathway line! But ye, O happy husbands, ye With him were friends eternally: The crafty spouse caressed him, who By Faublas in his youth was schooled, And the suspicious veteran old, The pompous, swaggering cuckold too, Who floats contentedly through life, Proud of his dinners and his wife!",
         "language":
         {
@@ -303,8 +283,7 @@
     },
     "Eugène Onéguine, Canto The First: XII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "One morn whilst yet in bed he lay, His valet brings him letters three. What, invitations? The same day As many entertainments be! A ball here, there a children's treat, Whither shall my rapscallion flit? Whither shall he go first? He'll see, Perchance he will to all the three. Meantime in matutinal dress And hat surnamed a \"Bolivar\" He hies unto the \"Boulevard,\" To loiter there in idleness Until the sleepless Bréguet chime Announcing to him dinner-time.",
         "language":
         {
@@ -317,8 +296,7 @@
     },
     "Eugène Onéguine, Canto The First: XIII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "'Tis dark. He seats him in a sleigh, \"Drive on!\" the cheerful cry goes forth, His furs are powdered on the way By the fine silver of the north. He bends his course to Talon's, where He knows Kaverine will repair. He enters. High the cork arose And Comet champagne foaming flows. Before him red roast beef is seen And truffles, dear to youthful eyes, Flanked by immortal Strasbourg pies, The choicest flowers of French cuisine, And Limburg cheese alive and old Is seen next pine-apples of gold.",
         "language":
         {
@@ -331,8 +309,7 @@
     },
     "Eugène Onéguine, Canto The First: XIV":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Still thirst fresh draughts of wine compels To cool the cutlets' seething grease, When the sonorous Bréguet tells Of the commencement of the piece. A critic of the stage malicious, A slave of actresses capricious, Onéguine was a citizen Of the domains of the side-scene. To the theatre he repairs Where each young critic ready stands, Capers applauds with clap of hands, With hisses Cleopatra scares, Moina recalls for this alone That all may hear his voice's tone.",
         "language":
         {
@@ -345,8 +322,7 @@
     },
     "Eugène Onéguine, Canto The First: XV":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Thou fairy-land! Where formerly Shone pungent Satire's dauntless king, Von Wisine, friend of liberty, And Kniajnine, apt at copying. The young Simeonova too there With Ozeroff was wont to share Applause, the people's donative. There our Katènine did revive Corneille's majestic genius, Sarcastic Shakhovskoi brought out His comedies, a noisy rout, There Didelot became glorious, There, there, beneath the side-scene's shade The drama of my youth was played.",
         "language":
         {
@@ -359,8 +335,7 @@
     },
     "Eugène Onéguine, Canto The First: XVI":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "My goddesses, where are your shades? Do ye not hear my mournful sighs? Are ye replaced by other maids Who cannot conjure former joys? Shall I your chorus hear anew, Russia's Terpsichore review Again in her ethereal dance? Or will my melancholy glance On the dull stage find all things changed, The disenchanted glass direct Where I can no more recollect? - A careless looker - on estranged In silence shall I sit and yawn And dream of life's delightful dawn?",
         "language":
         {
@@ -373,8 +348,7 @@
     },
     "Eugène Onéguine, Canto The First: XVII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "The house is crammed. A thousand lamps On pit, stalls, boxes, brightly blaze, Impatiently the gallery stamps, The curtain now they slowly raise. Obedient to the magic strings, Brilliant, ethereal, there springs Forth from the crowd of nymphs surrounding Istomina the nimbly-bounding; With one foot resting on its tip Slow circling round its fellow swings And now she skips and now she springs Like down from Aeolus's lip, Now her lithe form she arches o'er And beats with rapid foot the floor.",
         "language":
         {
@@ -387,8 +361,7 @@
     },
     "Eugène Onéguine, Canto The First: XVIII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Shouts of applause! Onéguine passes Between the stalls, along the toes; Seated, a curious look with glasses On unknown female forms he throws. Free scope he yields unto his glance, Reviews both dress and countenance, With all dissatisfaction shows. To male acquaintances he bows, And finally he deigns let fall Upon the stage his weary glance. He yawns, averts his countenance, Exclaiming, \"We must change 'em all! I long by ballets have been bored, Now Didelot scarce can be endured!\"",
         "language":
         {
@@ -401,8 +374,7 @@
     },
     "Eugène Onéguine, Canto The First: XIX":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Snakes, satyrs, loves with many a shout Across the stage still madly sweep, Whilst the tired serving-men without Wrapped in their sheepskins soundly sleep. Still the loud stamping doth not cease, Still they blow noses, cough, and sneeze, Still everywhere, without, within, The lamps illuminating shine; The steed benumbed still pawing stands And of the irksome harness tires, And still the coachmen round the fires Abuse their masters, rub their hands: But Eugene long hath left the press To array himself in evening dress.",
         "language":
         {
@@ -415,8 +387,7 @@
     },
     "Eugène Onéguine, Canto The First: XX":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "Faithfully shall I now depict, Portray the solitary den Wherein the child of fashion strict Dressed him, undressed, and dressed again? All that industrial London brings For tallow, wood and other things Across the Baltic's salt sea waves, All which caprice and affluence craves, All which in Paris eager taste, Choosing a profitable trade, For our amusement ever made And ease and fashionable waste, - Adorned the apartment of Eugene, Philosopher just turned eighteen.",
         "language":
         {
@@ -428,8 +399,7 @@
     },
     "Eugène Onéguine, Canto The First: XXI":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "China and bronze the tables weight, Amber on pipes from Stamboul glows, And, joy of souls effeminate, Phials of crystal scents enclose. Combs of all sizes, files of steel, Scissors both straight and curved as well, Of thirty different sorts, lo! brushes Both for the nails and for the tushes. Rousseau, I would remark in passing, Could not conceive how serious Grimm Dared calmly cleanse his nails 'fore him, Eloquent raver all-surpassing, - The friend of liberty and laws In this case quite mistaken was.",
         "language":
         {
@@ -441,8 +411,7 @@
     },
     "Eugène Onéguine, Canto The First: XXII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "The most industrious man alive May yet be studious of his nails; What boots it with the age to strive? Custom the despot soon prevails. A new Kaverine Eugene mine, Dreading the world's remarks malign, Was that which we are wont to call A fop, in dress pedantical. Three mortal hours per diem he Would loiter by the looking-glass, And from his dressing-room would pass Like Venus when, capriciously, The goddess would a masquerade Attend in male attire arrayed.",
         "language":
         {
@@ -454,8 +423,7 @@
     },
     "Eugène Onéguine, Canto The First: XXIII":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "On this artistical retreat Having once fixed your interest, I might to connoisseurs repeat The style in which my hero dressed; Though I confess I hardly dare Describe in detail the affair, Since words like pantaloons, vest, coat, To Russ indigenous are not; And also that my feeble verse - Pardon I ask for such a sin - With words of foreign origin Too much I'm given to intersperse, Though to the Academy I come And oft its Dictionary thumb.",
         "language":
         {
@@ -467,8 +435,7 @@
     },
     "Eugène Onéguine, Canto The First: XXIV":
     {
-        "insignia": "ThePushkin",
-        "country": "RU",
+        "insignia": "Pushkin", "country": "RU",
         "memoir": "But such is not my project now, So let us to the ball-room haste, Whither at headlong speed doth go Eugene in hackney carriage placed. Past darkened windows and long streets Of slumbering citizens he fleets, Till carriage lamps, a double row, Cast a gay lustre on the snow, Which shines with iridescent hues. He nears a spacious mansion's gate, By many a lamp illuminate, And through the lofty windows views Profiles of lovely dames he knows And also fashionable beaux.",
         "language":
         {
