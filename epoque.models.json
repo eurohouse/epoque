@@ -1,4 +1,17 @@
 {
+    "Couture Boudoir":
+    {
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
     "Barbara Palvin":
     {
         "height": 1.75, "weight": 58,
@@ -38,19 +51,6 @@
             "RU": {
                 "title": "Малый Трианон",
                 "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
-            }
-        }
-    },
-    "Couture Boudoir":
-    {
-        "insignia": "Lady", "nsfw": "true",
-        "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
-        "language": {
-            "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
             }
         }
     },
