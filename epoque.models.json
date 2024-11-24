@@ -132,6 +132,18 @@
             }
         }
     },
+    "Assemblée de la noblesse":
+    {
+        "country": "FR", "insignia": "Nobility",
+        "maison": "http://www.noblesse-russie.org/UNR_devenir.php?l=Fr",
+        "memoir": "L'admission à l'UNR est soumise à une condition absolue : appartenir à la Noblesse héréditaire de l'ancien Empire de Russie, par filiation mâle, légitime et directe. Il faut donc impérativement apporter la preuve irréfutable, sur documents, de cette appartenance par rapport à l'ascendant qui, avant février 1917, appartenait à cette noblesse . Une demande doit être adressée au Président de l’UNR qui enverra le dossier à remplir. Après avis de la Commission des Preuves, le Conseil délibère et décide ou non de l’admission. Les femmes peuvent être acceptées à titre personnel (sans capacité à transmettre la noblesse à leurs descendants) si leur noblesse est justifiée par la naissance ou, dans le cas d’une veuve, par la noblesse du défunt mari.",
+        "language": {
+            "RU": {
+                "title": "Дворянское собрание",
+                "memoir": "Прием в Союз Русских Дворян обусловлен безоговорочным условием принадлежности к потомственному дворянству Российской Империи по мужской линии, законной и прямой. Таким образом, следует представить неопровержимое доказательство, по документам, этой принадлежности по отношению к предку, который до Февраля 1917-го года принадлежал к дворянству. Запрос должен быть адресован на имя Председателя UNR, который вышлет Вам формуляр для заполнения. Затем, после заключения, выполненного Родословной Комиссией, Совет рассмотрит, обсудит и вынесет решение о возможности или невозможности принятия нового члена в Союз. Дамы могут быть приняты в Союз, как носители личного дворянства (без возможности передачи дворянства своему потомству), если их дворянство по рождению подтверждено документально; или как дворянство скончавшегося супруга."
+            }
+        }
+    },
     "Eugène Onéguine, Canto The First: I":
     {
         "insignia": "Pushkin", "country": "RU",
