@@ -1,9 +1,7 @@
 {
-    "000":
-    {
+    "000": {
         "title": "Jean Béraud's La Belle Époque",
-        "language":
-        {
+        "language": {
             "CH": "La Belle Époque Europeene",
             "RU": "«Прекрасная эпоха» Жана Беро",
             "JP": "ジャン・ペローのベルエポック",
@@ -12,11 +10,9 @@
             "AE": "عصر جان فيرلا بيل"
         }
     },
-    "001":
-    {
+    "001": {
         "title": "The Coronation of Queen Victoria",
-        "language":
-        {
+        "language": {
             "CH": "La Belle Époque Britannique",
             "RU": "Коронация Королевы Виктории",
             "JP": "ヴィクトリア女王の戴冠式",
@@ -25,11 +21,9 @@
             "AE": "حفل تاج الملكة فيكتوريا"
         }
     },
-    "002":
-    {
+    "002": {
         "title": "Pouchkine's Eugène Onéguine",
-        "language":
-        {
+        "language": {
             "CH": "La Belle Époque en Russe",
             "RU": "А.С. Пушкин «Евгений Онегин»",
             "JP": "プーシキンの「オネーギン」",
