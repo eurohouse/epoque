@@ -1,0 +1,371 @@
+{
+    "Female Feet": {
+        "insignia": "Lady", "nsfw": "true", "country": "IT",
+        "memoir": "Beside the stormy sea one day I envied sore the billows tall, Which rushed in eager dense array Enamoured at her feet to fall. How like the billow I desired To kiss the feet which I admired! No, never in the early blaze Of fiery youth’s untutored days So ardently did I desire A young Armida’s lips to press, Her cheek of rosy loveliness Or bosom full of languid fire, - A gust of passion never tore My spirit with such pangs before.",
+        "language": {
+            "RU": {
+                "title": "Женские ножки",
+                "memoir": "Увы, на разные забавы Я много жизни погубил! Но если б не страдали нравы, Я балы б до сих пор любил. Люблю я бешеную младость, И тесноту, и блеск, и радость, И дам обдуманный наряд; Люблю их ножки; только вряд Найдете вы в России целой Три пары стройных женских ног. Ах! долго я забыть не мог Две ножки... Грустный, охладелый, Я всё их помню, и во сне Они тревожат сердце мне."
+            }
+        }
+    },
+    "Couture Boudoir": {
+        "insignia": "Lady", "nsfw": "true", "country": "FR",
+        "maison": "https://www.coutureboudoir.com",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
+    "Barbara Palvin": {
+        "height": 1.75, "weight": 58,
+        "sizes": "85-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "HU",
+        "birthday": "October 8, 1993",
+        "language": {
+            "RU": { "title": "Барбара Палвин" }
+        }
+    },
+    "Jean Béraud's Paintings": {
+        "insignia": "Eurohouse", "country": "FR",
+        "maison": "https://www.sothebys.com/en/artists/jean-beraud",
+        "memoir": "Although the Belle Époque fell out of popularity at the time of Béraud’s death, he has become one of the most beloved artists from the period. Béraud’s paintings are held at the Louvre, Paris; The Metropolitan Museum, New York; the National Gallery, London; the Art Institute of Chicago, and many other major institutions. His works continue to sell for exponentially higher prices; Après L’Office À L’Église de la Sainte Trinité, Noël 1890 sold for $672,000 and Avenue Parisienne for $1.5 million at Sotheby’s.",
+        "language": {
+            "RU": {
+                "title": "Картины Жана Беро",
+                "memoir": "Хотя Belle Époque потеряла популярность после смерти Беро, он стал одним из самых любимых художников этого периода. Картины Беро хранятся в Лувре, Париж; Метрополитен-музее, Нью-Йорк; Национальной галерее, Лондон; Чикагском институте искусств и многих других крупных учреждениях. Его работы продолжают продаваться по экспоненциально высоким ценам; Après L’Office À L’Église de la Sainte Trinité, Noël 1890 был продан за 672 000 долларов, а Avenue Parisienne — за 1,5 миллиона долларов на аукционе Sotheby’s."
+            }
+        }
+    },
+    "Le Petit Trianon": {
+        "insignia": "Palace", "country": "FR",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "In 1758, Louis XV decided to build a new palace in the middle of his gardens, which, by then, he had been working on for around ten years. He commissioned Ange-Jacques Gabriel, first architect to the King, to build a pavilion large enough for himself and some of his entourage to live in. With the Petit Trianon, Gabriel produced a blueprint for the neoclassical movement – a perfect example of the ‘Greek style’ that was taking Europe by storm at the time.",
+        "language": {
+            "RU": {
+                "title": "Малый Трианон",
+                "memoir": "В 1758 году Людовик XV решил построить посреди своих садов новый дворец, над которым к тому времени он работал около десяти лет. Он поручил Анж-Жаку Габриэлю, первому архитектору короля, построить павильон, достаточно большой для проживания его самого и части его окружения. В Малом Трианоне Габриэль создал проект неоклассического движения – прекрасный пример «Греческий стиль», который в то время покорил Европу."
+            }
+        }
+    },
+    "Victoria visits Waddesdon": {
+        "insignia": "Rothschild", "country": "GB",
+        "maison": "https://waddesdon.org.uk",
+        "memoir": "Queen Victoria paid a much-anticipated visit to Waddesdon on 14 May 1890. The Queen travelled to Aylesbury by train and journeyed to Waddesdon in a carriage procession. The royal party were given lunch, offered a tour of the Manor and collection, and in the afternoon were shown the grounds, before moving onto the time-honoured custom of planting a tree.",
+        "language": {
+            "RU": {
+                "title": "Поместье Ротшильдов Уоддесдон",
+                "memoir": "Королева Виктория нанесла долгожданный визит в Уоддесдон 14 мая 1890 года. Королева поехала в Эйлсбери на поезде и поехала в Уоддесдон в процессии экипажа. Королевскую свиту накормили обедом, предложили экскурсию по поместью и коллекции, а во второй половине дня показали территорию, прежде чем перейти к проверенному временем обычаю сажать дерево."
+            }
+        }
+    },
+    "Coronation of Queen Victoria": {
+        "insignia": "Clock", "country": "GB",
+        "memoir": "The coronation of Victoria as Queen of the United Kingdom took place on Thursday, 28 June 1838, just over a year after she succeeded to the throne of the United Kingdom at the age of 18. The ceremony was held in Westminster Abbey after a public procession through the streets from Buckingham Palace, to which the Queen returned later as part of a second procession.",
+        "language": {
+            "RU": {
+                "title": "Коронация Королевы Виктории",
+                "memoir": "Ранним утром 28 июня 1838 года пушечная пальба в Сент-Джеймсском парке и в Тауэре возвестила о наступлении рассвета. В 5 часов утра экипажи направлялись в Вестминстерское аббатство, где должна была состояться церемония, а к 7 часам утра улицы Лондона в западной части столицы были заполнены транспортными средствами и пешеходами, спешившими на коронацию."
+            }
+        }
+    },
+    "Marriage A-la-Mode": {
+        "insignia": "Lady", "country": "GB",
+        "memoir": "For centuries, the English have been fascinated by the sexual exploits and squalid greed of the aristocracy, and these are the subjects of the six-part series Marriage A-la-Mode, which illustrates the disastrous consequences of marrying for money rather than love.",
+        "language": {
+            "RU": {
+                "title": "Модный брак",
+                "memoir": "На протяжении веков англичан очаровывали сексуальные подвиги и отвратительная жадность аристократии, и именно об этом рассказывается в шестисерийном сериале «Брак в моде», который иллюстрирует катастрофические последствия брака из-за денег, а не по любви."
+            }
+        }
+    },
+    "Kaiser Wilhelm II": {
+        "insignia": "IronCross", "country": "DE",
+        "memoir": "Wilhelm II was a strong supporter of the military policy pursued in 1914-1918. After the assassination attempt on Archduke Franz Ferdinand in June 1914, he guaranteed Austria-Hungary all possible assistance from Germany in the fight against \"Serbian barbarism.\"",
+        "language": {
+            "RU": {
+                "title": "Кайзер Вильгельм II",
+                "memoir": "Вильгельм II был решительным сторонником военной политики, проводимой в 1914-1918 годах. После покушения на эрцгерцога Франца Фердинанда в июне 1914 года он гарантировал Австро-Венгрии всяческую помощь со стороны Германии в борьбе с «сербским варварством»."
+            }
+        }
+    },
+    "Grandmother of Europe": {
+        "insignia": "Windsor", "country": "GB",
+        "memoir": "Edward's firstborn son passed away from influenza and so his second, George V, inherited the throne in 1910. After war descended on Europe in 1914, three royal cousins found themselves in direct conflict with each other. King George V of Britain, Kaiser Wilhelm II of Germany, and Tsar Nicholas II of Russia.",
+        "language": {
+            "RU": {
+                "title": "Прабабушка Европы",
+                "memoir": "Первенец Эдварда скончался от гриппа, и поэтому его второй сын, Георг V, унаследовал трон в 1910 году. После того, как в 1914 году в Европе обрушилась война, три королевских кузена оказались в прямом конфликте друг с другом. Король Великобритании Георг V, кайзер Германии Вильгельм II и царь России Николай II."
+            }
+        }
+    },
+    "King of Couture": {
+        "insignia": "SunKing", "country": "FR",
+        "memoir": "September 1 marks the 300th anniversary of the death of King Louis XIV, France’s longest-reigning monarch. Logging 72 years on the throne, Louis eclipsed Queen Victoria by a decade. But this tercentenary also commemorates a beginning: the birth of haute couture as people know it today, seasonal, corporate, media-driven, and-above all - French.",
+        "language": {
+            "RU": {
+                "title": "Король Высокой моды",
+                "memoir": "1 сентября исполняется 300 лет со дня смерти короля Людовика XIV, самого долгоправящего монарха Франции. Пробыв на троне 72 года, Людовик на десять лет затмил королеву Викторию. Но это трехсотлетие также знаменует начало: рождение высокой моды, какой люди ее знают сегодня, сезонной, корпоративной, управляемой средствами массовой информации и, прежде всего, французской."
+            }
+        }
+    },
+    "Queen Victoria": {
+        "insignia": "Windsor", "country": "GB",
+        "memoir": "The couple first met at Victoria's 17th birthday in April 1836 when she was heir to the British throne. The cousins were introduced by their uncle, Leopold I (1790-1865), King of the Belgians. In their memoirs, both Albert and Victoria record that they almost instantly fell in love.",
+        "language": {
+            "RU": {
+                "title": "Королева Виктория",
+                "memoir": "Пара впервые встретилась на 17-летии Виктории в апреле 1836 года, когда она была наследницей британского престола. Двоюродных братьев познакомил их дядя Леопольд I (1790-1865), король Бельгии. В своих мемуарах и Альберт, и Виктория отмечают, что почти мгновенно влюбились друг в друга."
+            }
+        }
+    },
+    "Assemblée de la noblesse": {
+        "country": "FR", "insignia": "Nobility",
+        "maison": "http://www.noblesse-russie.org/UNR_devenir.php?l=Fr",
+        "memoir": "L'admission à l'UNR est soumise à une condition absolue : appartenir à la Noblesse héréditaire de l'ancien Empire de Russie, par filiation mâle, légitime et directe. Il faut donc impérativement apporter la preuve irréfutable, sur documents, de cette appartenance par rapport à l'ascendant qui, avant février 1917, appartenait à cette noblesse . Une demande doit être adressée au Président de l’UNR qui enverra le dossier à remplir. Après avis de la Commission des Preuves, le Conseil délibère et décide ou non de l’admission. Les femmes peuvent être acceptées à titre personnel (sans capacité à transmettre la noblesse à leurs descendants) si leur noblesse est justifiée par la naissance ou, dans le cas d’une veuve, par la noblesse du défunt mari.",
+        "language": {
+            "RU": {
+                "title": "Дворянское собрание",
+                "memoir": "Прием в Союз Русских Дворян обусловлен безоговорочным условием принадлежности к потомственному дворянству Российской Империи по мужской линии, законной и прямой. Таким образом, следует представить неопровержимое доказательство, по документам, этой принадлежности по отношению к предку, который до Февраля 1917-го года принадлежал к дворянству. Запрос должен быть адресован на имя Председателя UNR, который вышлет Вам формуляр для заполнения. Затем, после заключения, выполненного Родословной Комиссией, Совет рассмотрит, обсудит и вынесет решение о возможности или невозможности принятия нового члена в Союз. Дамы могут быть приняты в Союз, как носители личного дворянства (без возможности передачи дворянства своему потомству), если их дворянство по рождению подтверждено документально; или как дворянство скончавшегося супруга."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: I": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "\"My uncle's goodness is extreme, If seriously he hath disease; He hath acquired the world's esteem And nothing more important sees; A paragon of virtue he! But what a nuisance it will be, Chained to his bedside night and day Without a chance to slip away. Ye need dissimulation base A dying man with art to soothe, Beneath his head the pillow smooth, And physic bring with mournful face, To sigh and meditate alone: When will the devil take his own!\"",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: I",
+                "memoir": "«Мой дядя самых честных правил, Когда не в шутку занемог, Он уважать себя заставил И лучше выдумать не мог. Его пример другим наука; Но, боже мой, какая скука С больным сидеть и день и ночь, Не отходя ни шагу прочь! Какое низкое коварство Полуживого забавлять, Ему подушки поправлять, Печально подносить лекарство, Вздыхать и думать про себя: Когда же черт возьмет тебя!»"
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: II": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Thus mused a madcap young, who drove Through clouds of dust at postal pace, By the decree of Mighty Jove, Inheritor of all his race. Friends of Liudmila and Ruslan, Let me present ye to the man, Who without more prevarication The hero is of my narration! Onéguine, O my gentle readers, Was born beside the Neva, where It may be ye were born, or there Have shone as one of fashion's leaders. I also wandered there of old, But cannot stand the northern cold.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: II",
+                "memoir": "Так думал молодой повеса, Летя в пыли на почтовых, Всевышней волею Зевеса Наследник всех своих родных. Друзья Людмилы и Руслана! С героем моего романа Без предисловий, сей же час Позвольте познакомить вас: Онегин, добрый мой приятель, Родился на брегах Невы, Где, может быть, родились вы Или блистали, мой читатель; Там некогда гулял и я: Но вреден север для меня."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: III": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Having performed his service truly, Deep into debt his father ran; Three balls a year he gave ye duly, At last became a ruined man. But Eugene was by fate preserved, For first \"madame\" his wants observed, And then “monsieur” supplied her place; The boy was wild but full of grace. \"Monsieur l'Abbé\" a starving Gaul, Fearing his pupil to annoy, Instructed jestingly the boy, Morality taught scarce at all; Gently for pranks he would reprove And in the Summer Garden rove.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: III",
+                "memoir": "Служив отлично благородно, Долгами жил его отец, Давал три бала ежегодно И промотался наконец. Судьба Евгения хранила: Сперва Madame за ним ходила, Потом Monsieur ее сменил. Ребенок был резов, но мил. Monsieur l'Abbé, француз убогой, Чтоб не измучилось дитя, Учил его всему шутя, Не докучал моралью строгой, Слегка за шалости бранил И в Летний сад гулять водил."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: IV": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "When youth's rebellious hour drew near And my Eugene the path must trace - The path of hope and tender fear - Monsieur clean out of doors they chase. Lo! my Onéguine free as air, Cropped in the latest style his hair, Dressed like a London dandy he The giddy world at last shall see. He wrote and spoke, so all allowed, In the French language perfectly, Danced the mazurka gracefully, Without the least constraint he bowed. What more's required? The world replies, He is a charming youth and wise.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: IV",
+                "memoir": "Когда же юности мятежной Пришла Евгению пора, Пора надежд и грусти нежной, Monsieur прогнали со двора. Вот мой Онегин на свободе; Острижен по последней моде, Как dandy лондонский одет — И наконец увидел свет. Он по-французски совершенно Мог изъясняться и писал; Легко мазурку танцевал И кланялся непринужденно; Чего ж вам больше? Свет решил, Что он умен и очень мил."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: V": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "We all of us of education A something somehow have obtained, Thus, praised be God! a reputation With us is easily attained. Onéguine was - so many deemed Unerring critics self-esteemed, Pedantic although scholar like, In truth he had the happy trick Without constraint in conversation Of touching lightly every theme. Silent, oracular ye'd see him Amid a serious disputation, Then suddenly discharge a joke The ladies' laughter to provoke.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: V",
+                "memoir": "Мы все учились понемногу Чему-нибудь и как-нибудь, Так воспитаньем, слава богу, У нас немудрено блеснуть. Онегин был по мненью многих (Судей решительных и строгих) Ученый малый, но педант: Имел он счастливый талант Без принужденья в разговоре Коснуться до всего слегка, С ученым видом знатока Хранить молчанье в важном споре И возбуждать улыбку дам Огнем нежданных эпиграмм."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: VI": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Latin is just now not in vogue, But if the truth I must relate, Onéguine knew enough, the rogue A mild quotation to translate, A little Juvenal to spout, With \"vale\" finish off a note; Two verses he could recollect Of the Æneid, but incorrect. In history he took no pleasure, The dusty chronicles of earth For him were but of little worth, Yet still of anecdotes a treasure Within his memory there lay, From Romulus unto our day.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: VI",
+                "memoir": "Латынь из моды вышла ныне: Так, если правду вам сказать, Он знал довольно по-латыне, Чтоб эпиграфы разбирать, Потолковать об Ювенале, В конце письма поставить vale, Да помнил, хоть не без греха, Из Энеиды два стиха. Он рыться не имел охоты В хронологической пыли Бытописания земли: Но дней минувших анекдоты От Ромула до наших дней Хранил он в памяти своей."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: VII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "For empty sound the rascal swore he Existence would not make a curse, Knew not an iamb from a choree, Although we read him heaps of verse. Homer, Theocritus, he jeered, But Adam Smith to read appeared, And at economy was great; That is, he could elucidate How empires store of wealth unfold, How flourish, why and wherefore less If the raw product they possess The medium is required of gold. The father scarcely understands His son and mortgages his lands.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: VII",
+                "memoir": "Высокой страсти не имея Для звуков жизни не щадить, Не мог он ямба от хорея, Как мы ни бились, отличить. Бранил Гомера, Феокрита; Зато читал Адама Смита И был глубокой эконом, То есть умел судить о том, Как государство богатеет, И чем живет, и почему Не нужно золота ему, Когда простой продукт имеет. Отец понять его не мог И земли отдавал в залог."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: VIII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "But upon all that Eugene knew I have no leisure here to dwell, But say he was a genius who In one thing really did excel. It occupied him from a boy, A labour, torment, yet a joy, It whiled his idle hours away And wholly occupied his day - The amatory science warm, Which Ovid once immortalized, For which the poet agonized Laid down his life of sun and storm On the steppes of Moldavia lone, Far from his Italy - his own.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: VIII",
+                "memoir": "Всего, что знал еще Евгений, Пересказать мне недосуг; Но в чем он истинный был гений, Что знал он тверже всех наук, Что было для него измлада И труд, и мука, и отрада, Что занимало целый день Его тоскующую лень, — Была наука страсти нежной, Которую воспел Назон, За что страдальцем кончил он Свой век блестящий и мятежный В Молдавии, в глуши степей, Вдали Италии своей."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: IX": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "How soon he learnt deception's art, Hope to conceal and jealousy, False confidence or doubt to impart, Sombre or glad in turn to be, Haughty appear, subservient, Obsequious or indifferent! What languor would his silence show, How full of fire his speech would glow! How artless was the note which spoke Of love again, and yet again; How deftly could he transport feign! How bright and tender was his look, Modest yet daring! And a tear Would at the proper time appear.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: IX",
+                "memoir": "Как рано мог он лицемерить, Таить надежду, ревновать, Разуверять, заставить верить, Казаться мрачным, изнывать, Являться гордым и послушным, Внимательным иль равнодушным! Как томно был он молчалив, Как пламенно красноречив, В сердечных письмах как небрежен! Одним дыша, одно любя, Как он умел забыть себя! Как взор его был быстр и нежен, Стыдлив и дерзок, а порой Блистал послушною слезой!"
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: X": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "How well he played the greenhorn's part To cheat the inexperienced fair, Sometimes by pleasing flattery's art, Sometimes by ready-made despair; The feeble moment would espy Of tender years the modesty Conquer by passion and address, Await the long-delayed caress. Avowal then 'twas time to pray, Attentive to the heart's first beating, Follow up love - a secret meeting Arrange without the least delay - Then, then - well, in some solitude Lessons to give he understood!",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: X",
+                "memoir": "Как он умел казаться новым, Шутя невинность изумлять, Пугать отчаяньем готовым, Приятной лестью забавлять, Ловить минуту умиленья, Невинных лет предубежденья Умом и страстью побеждать, Невольной ласки ожидать, Молить и требовать признанья, Подслушать сердца первый звук, Преследовать любовь и вдруг Добиться тайного свиданья… И после ей наедине Давать уроки в тишине!"
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XI": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "How soon he learnt to titillate The heart of the inveterate flirt! Desirous to annihilate His own antagonists expert, How bitterly he would malign, With many a snare their pathway line! But ye, O happy husbands, ye With him were friends eternally: The crafty spouse caressed him, who By Faublas in his youth was schooled, And the suspicious veteran old, The pompous, swaggering cuckold too, Who floats contentedly through life, Proud of his dinners and his wife!",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XI",
+                "memoir": "Как рано мог уж он тревожить Сердца кокеток записных! Когда ж хотелось уничтожить Ему соперников своих, Как он язвительно злословил! Какие сети им готовил! Но вы, блаженные мужья, С ним оставались вы друзья: Его ласкал супруг лукавый, Фобласа давний ученик, И недоверчивый старик, И рогоносец величавый, Всегда довольный сам собой, Своим обедом и женой."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "One morn whilst yet in bed he lay, His valet brings him letters three. What, invitations? The same day As many entertainments be! A ball here, there a children's treat, Whither shall my rapscallion flit? Whither shall he go first? He'll see, Perchance he will to all the three. Meantime in matutinal dress And hat surnamed a \"Bolivar\" He hies unto the \"Boulevard,\" To loiter there in idleness Until the sleepless Bréguet chime Announcing to him dinner-time.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XII",
+                "memoir": "Бывало, он еще в постеле: К нему записочки несут. Что? Приглашенья? В самом деле, Три дома на вечер зовут: Там будет бал, там детский праздник. Куда ж поскачет мой проказник? С кого начнет он? Всё равно: Везде поспеть немудрено. Покамест в утреннем уборе, Надев широкий боливар, Онегин едет на бульвар, И там гуляет на просторе, Пока недремлющий брегет Не прозвонит ему обед."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XIII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "'Tis dark. He seats him in a sleigh, \"Drive on!\" the cheerful cry goes forth, His furs are powdered on the way By the fine silver of the north. He bends his course to Talon's, where He knows Kaverine will repair. He enters. High the cork arose And Comet champagne foaming flows. Before him red roast beef is seen And truffles, dear to youthful eyes, Flanked by immortal Strasbourg pies, The choicest flowers of French cuisine, And Limburg cheese alive and old Is seen next pine-apples of gold.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XIII",
+                "memoir": "Уж темно: в санки он садится. «Пади, пади!» – раздался крик; Морозной пылью серебрится Его бобровый воротник. К Talon помчался: он уверен, Что там уж ждет его Каверин. Вошел: и пробка в потолок, Вина кометы брызнул ток; Пред ним roast-beef окровавленный И трюфли, роскошь юных лет, Французской кухни лучший цвет, И Страсбурга пирог нетленный Меж сыром лимбургским живым И ананасом золотым."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XIV": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Still thirst fresh draughts of wine compels To cool the cutlets' seething grease, When the sonorous Bréguet tells Of the commencement of the piece. A critic of the stage malicious, A slave of actresses capricious, Onéguine was a citizen Of the domains of the side-scene. To the theatre he repairs Where each young critic ready stands, Capers applauds with clap of hands, With hisses Cleopatra scares, Moina recalls for this alone That all may hear his voice's tone.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XIV",
+                "memoir": "Еще бокалов жажда просит Залить горячий жир котлет, Но звон брегета им доносит, Что новый начался балет. Театра злой законодатель, Непостоянный обожатель Очаровательных актрис, Почетный гражданин кулис, Онегин полетел к театру, Где каждый, вольностью дыша, Готов охлопать entrechat, Обшикать Федру, Клеопатру, Моину вызвать (для того, Чтоб только слышали его)."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XV": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Thou fairy-land! Where formerly Shone pungent Satire's dauntless king, Von Wisine, friend of liberty, And Kniajnine, apt at copying. The young Simeonova too there With Ozeroff was wont to share Applause, the people's donative. There our Katènine did revive Corneille's majestic genius, Sarcastic Shakhovskoi brought out His comedies, a noisy rout, There Didelot became glorious, There, there, beneath the side-scene's shade The drama of my youth was played.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XV",
+                "memoir": "Волшебный край! там в стары годы, Сатиры смелый властелин, Блистал Фонвизин, друг свободы, И переимчивый Княжнин; Там Озеров невольны дани Народных слез, рукоплесканий С младой Семеновой делил; Там наш Катенин воскресил Корнеля гений величавый; Там вывел колкий Шаховской Своих комедий шумный рой, Там и Дидло венчался славой, Там, там под сению кулис Младые дни мои неслись."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XVI": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "My goddesses, where are your shades? Do ye not hear my mournful sighs? Are ye replaced by other maids Who cannot conjure former joys? Shall I your chorus hear anew, Russia's Terpsichore review Again in her ethereal dance? Or will my melancholy glance On the dull stage find all things changed, The disenchanted glass direct Where I can no more recollect? - A careless looker - on estranged In silence shall I sit and yawn And dream of life's delightful dawn?",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XVI",
+                "memoir": "Мои богини! что вы? где вы? Внемлите мой печальный глас: Всё те же ль вы? другие ль девы, Сменив, не заменили вас? Услышу ль вновь я ваши хоры? Узрю ли русской Терпсихоры Душой исполненный полет? Иль взор унылый не найдет Знакомых лиц на сцене скучной, И, устремив на чуждый свет Разочарованный лорнет, Веселья зритель равнодушный, Безмолвно буду я зевать И о былом воспоминать?"
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XVII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "The house is crammed. A thousand lamps On pit, stalls, boxes, brightly blaze, Impatiently the gallery stamps, The curtain now they slowly raise. Obedient to the magic strings, Brilliant, ethereal, there springs Forth from the crowd of nymphs surrounding Istomina the nimbly-bounding; With one foot resting on its tip Slow circling round its fellow swings And now she skips and now she springs Like down from Aeolus's lip, Now her lithe form she arches o'er And beats with rapid foot the floor.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XVII",
+                "memoir": "Театр уж полон; ложи блещут; Партер и кресла, всё кипит; В райке нетерпеливо плещут, И, взвившись, занавес шумит. Блистательна, полувоздушна, Смычку волшебному послушна, Толпою нимф окружена, Стоит Истомина; она, Одной ногой касаясь пола, Другою медленно кружит, И вдруг прыжок, и вдруг летит, Летит, как пух от уст Эола; То стан совьет, то разовьет, И быстрой ножкой ножку бьет."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XVIII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Shouts of applause! Onéguine passes Between the stalls, along the toes; Seated, a curious look with glasses On unknown female forms he throws. Free scope he yields unto his glance, Reviews both dress and countenance, With all dissatisfaction shows. To male acquaintances he bows, And finally he deigns let fall Upon the stage his weary glance. He yawns, averts his countenance, Exclaiming, \"We must change 'em all! I long by ballets have been bored, Now Didelot scarce can be endured!\"",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XVIII",
+                "memoir": "Всё хлопает. Онегин входит, Идет меж кресел по ногам, Двойной лорнет скосясь наводит На ложи незнакомых дам; Все ярусы окинул взором, Всё видел: лицами, убором Ужасно недоволен он; С мужчинами со всех сторон Раскланялся, потом на сцену В большом рассеянье взглянул, Отворотился – и зевнул, И молвил: «Всех пора на смену; Балеты долго я терпел, Но и Дидло мне надоел»."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XIX": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Snakes, satyrs, loves with many a shout Across the stage still madly sweep, Whilst the tired serving-men without Wrapped in their sheepskins soundly sleep. Still the loud stamping doth not cease, Still they blow noses, cough, and sneeze, Still everywhere, without, within, The lamps illuminating shine; The steed benumbed still pawing stands And of the irksome harness tires, And still the coachmen round the fires Abuse their masters, rub their hands: But Eugene long hath left the press To array himself in evening dress.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XIX",
+                "memoir": "Еще амуры, черти, змеи На сцене скачут и шумят; Еще усталые лакеи На шубах у подъезда спят; Еще не перестали топать, Сморкаться, кашлять, шикать, хлопать; Еще снаружи и внутри Везде блистают фонари; Еще, прозябнув, бьются кони, Наскуча упряжью своей, И кучера, вокруг огней, Бранят господ и бьют в ладони: А уж Онегин вышел вон; Домой одеться едет он."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XX": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "Faithfully shall I now depict, Portray the solitary den Wherein the child of fashion strict Dressed him, undressed, and dressed again? All that industrial London brings For tallow, wood and other things Across the Baltic's salt sea waves, All which caprice and affluence craves, All which in Paris eager taste, Choosing a profitable trade, For our amusement ever made And ease and fashionable waste, - Adorned the apartment of Eugene, Philosopher just turned eighteen.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XX",              "memoir": "Изображу ль в картине верной Уединенный кабинет, Где мод воспитанник примерный Одет, раздет и вновь одет? Всё, чем для прихоти обильной Торгует Лондон щепетильный И по Балтическим волнам За лес и сало возит нам, Всё, что в Париже вкус голодный, Полезный промысел избрав, Изобретает для забав, Для роскоши, для неги модной, — Всё украшало кабинет Философа в осьмнадцать лет."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXI": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "China and bronze the tables weight, Amber on pipes from Stamboul glows, And, joy of souls effeminate, Phials of crystal scents enclose. Combs of all sizes, files of steel, Scissors both straight and curved as well, Of thirty different sorts, lo! brushes Both for the nails and for the tushes. Rousseau, I would remark in passing, Could not conceive how serious Grimm Dared calmly cleanse his nails 'fore him, Eloquent raver all-surpassing, - The friend of liberty and laws In this case quite mistaken was.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXI",              "memoir": "Янтарь на трубках Цареграда, Фарфор и бронза на столе, И, чувств изнеженных отрада, Духи в граненом хрустале; Гребенки, пилочки стальные, Прямые ножницы, кривые, И щетки тридцати родов И для ногтей, и для зубов. Руссо (замечу мимоходом) Не мог понять, как важный Грим Смел чистить ногти перед ним, Красноречивым сумасбродом. Защитник вольности и прав В сем случае совсем неправ."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "The most industrious man alive May yet be studious of his nails; What boots it with the age to strive? Custom the despot soon prevails. A new Kaverine Eugene mine, Dreading the world's remarks malign, Was that which we are wont to call A fop, in dress pedantical. Three mortal hours per diem he Would loiter by the looking-glass, And from his dressing-room would pass Like Venus when, capriciously, The goddess would a masquerade Attend in male attire arrayed.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXII",              "memoir": "Быть можно дельным человеком И думать о красе ногтей: К чему бесплодно спорить с веком? Обычай деспот меж людей. Второй Чадаев, мой Евгений, Боясь ревнивых осуждений, В своей одежде был педант И то, что мы назвали франт. Он три часа по крайней мере Пред зеркалами проводил И из уборной выходил Подобный ветреной Венере, Когда, надев мужской наряд, Богиня едет в маскарад."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXIII": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "On this artistical retreat Having once fixed your interest, I might to connoisseurs repeat The style in which my hero dressed; Though I confess I hardly dare Describe in detail the affair, Since words like pantaloons, vest, coat, To Russ indigenous are not; And also that my feeble verse - Pardon I ask for such a sin - With words of foreign origin Too much I'm given to intersperse, Though to the Academy I come And oft its Dictionary thumb.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXIII",              "memoir": "В последнем вкусе туалетом Заняв ваш любопытный взгляд, Я мог бы пред ученым светом Здесь описать его наряд; Конечно б, это было смело, Описывать мое же дело: Но панталоны, фрак, жилет, Всех этих слов на русском нет; А вижу я, винюсь пред вами, Что уж и так мой бедный слог Пестреть гораздо б меньше мог Иноплеменными словами, Хоть и заглядывал я встарь В Академический Словарь."
+            }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXIV": {
+        "insignia": "Pushkin", "country": "RU",
+        "memoir": "But such is not my project now, So let us to the ball-room haste, Whither at headlong speed doth go Eugene in hackney carriage placed. Past darkened windows and long streets Of slumbering citizens he fleets, Till carriage lamps, a double row, Cast a gay lustre on the snow, Which shines with iridescent hues. He nears a spacious mansion's gate, By many a lamp illuminate, And through the lofty windows views Profiles of lovely dames he knows And also fashionable beaux.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXIV",              "memoir": "У нас теперь не то в предмете: Мы лучше поспешим на бал, Куда стремглав в ямской карете Уж мой Онегин поскакал. Перед померкшими домами Вдоль сонной улицы рядами Двойные фонари карет Веселый изливают свет И радуги на снег наводят; Усеян плошками кругом, Блестит великолепный дом; По цельным окнам тени ходят, Мелькают профили голов И дам и модных чудаков."
+            }
+        }
+    }
+}
